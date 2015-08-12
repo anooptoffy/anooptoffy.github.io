@@ -1,7 +1,8 @@
-### anooptoffy.github.io
+# anooptoffy.github.io
 
-Exploring gitpages.
+	Exploring gitpages.
 
-# Pages :-
+## Pages-
+
 * indexx.html
 * 2048
