@@ -4,5 +4,5 @@
 
 ## Pages-
 
-* indexx.html
+* index.html
 * 2048
