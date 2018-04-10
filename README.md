@@ -1,8 +1,3 @@
-# anooptoffy.github.io
+### Personal Website
 
-	Exploring gitpages.
-
-## Pages-
-
-* index.html
-* 2048
+# Theme https://github.com/mattvh/jekyllthemes
