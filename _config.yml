@@ -1,0 +1,43 @@
+# Site settings
+title: Anoop Toffy
+description: 'I am a masters student and a research assistant at IIIT Bangalore. I blog about Machine Learning, Deep Learning and AI.'
+url: 'http://www.anooptoffy.com'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Anoop Tofy'
+  email: anoop.toffy90@gmail.com
+  twitter_username: toffymon
+  facebook_username: anoop.toffy
+  github_username:  anooptoffy
+  linkedin_username:  anooptoffy
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
