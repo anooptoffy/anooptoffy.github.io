@@ -11,5 +11,5 @@ comments: true
   <section class="post">
     {{ content }}
   </section>
-
+{% if page.comments != false %}{% include disqus.html %}{% endif %}
 </article>
