@@ -1,11 +1,11 @@
 ---
-title:  "[Part 1] Speech Recognition : A review"
+title:  "Speech Recognition : A review (part 1)"
 date:   2018-04-13 15:04:23
 categories: [deep learning, speech recognition]
 tags: [speech, asr, dnn, hmm, gmm, mfcc]
 ---
 
-[Speech recognition][wiki]  is the inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers. It is also known as "automatic speech recognition" (ASR), "computer speech recognition", or just "speech to text" (STT). It incorporates knowledge and research in the linguistics, computer science, and electrical engineering fields. The achievement of high accuracy in converting speech to text has led to increased creation and usage of Speech recognition systems like Amazon Alexa, Google Now, Apple Siri and Microsoft Cortana. Hence it is important to understand the underlying technologies that make speech recognition possible in todays world. Here in this blog post
+[Speech recognition][wiki]  is the inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers. It is also known as "automatic speech recognition" (ASR), "computer speech recognition", or just "speech to text" (STT). It incorporates knowledge and research in the linguistics, computer science, and electrical engineering fields. The achievement of high accuracy in converting speech to text has led to increased creation and usage of Speech recognition systems like Amazon Alexa, Google Now, Apple Siri and Microsoft Cortana. Hence it is important to understand the underlying technologies that make speech recognition possible in todays world. Here in this blog post I cover most aspects of speech recognition I convered during my masters.
 
 ### Topic covered :
 
@@ -50,5 +50,6 @@ More recent developments in speech recognition are in deep learning with CNN, RN
 * Deep Networks for Speech Recognition
 * RNN for Speech Recognition (1990, 2012 - )
 
+(To be continued....)
 
 [wiki]: https://en.wikipedia.org/wiki/Speech_recognition
